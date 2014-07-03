@@ -1,0 +1,14 @@
+c:\users\eric\documents\visual studio 2013\Projects\NewTwitterApp\NewTwitterApp.Data.Model\bin\Debug\NewTwitterApp.Data.Model.dll.config
+c:\users\eric\documents\visual studio 2013\Projects\NewTwitterApp\NewTwitterApp.Data.Model\bin\Debug\NewTwitterApp.Data.Model.dll
+c:\users\eric\documents\visual studio 2013\Projects\NewTwitterApp\NewTwitterApp.Data.Model\bin\Debug\NewTwitterApp.Data.Model.pdb
+c:\users\eric\documents\visual studio 2013\Projects\NewTwitterApp\NewTwitterApp.Data.Model\bin\Debug\EntityFramework.dll
+c:\users\eric\documents\visual studio 2013\Projects\NewTwitterApp\NewTwitterApp.Data.Model\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\eric\documents\visual studio 2013\Projects\NewTwitterApp\NewTwitterApp.Data.Model\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+c:\users\eric\documents\visual studio 2013\Projects\NewTwitterApp\NewTwitterApp.Data.Model\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\eric\documents\visual studio 2013\Projects\NewTwitterApp\NewTwitterApp.Data.Model\bin\Debug\EntityFramework.xml
+c:\users\eric\documents\visual studio 2013\Projects\NewTwitterApp\NewTwitterApp.Data.Model\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\eric\documents\visual studio 2013\Projects\NewTwitterApp\NewTwitterApp.Data.Model\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+c:\users\eric\documents\visual studio 2013\Projects\NewTwitterApp\NewTwitterApp.Data.Model\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\eric\documents\visual studio 2013\Projects\NewTwitterApp\NewTwitterApp.Data.Model\obj\Debug\NewTwitterApp.Data.Model.csprojResolveAssemblyReference.cache
+c:\users\eric\documents\visual studio 2013\Projects\NewTwitterApp\NewTwitterApp.Data.Model\obj\Debug\NewTwitterApp.Data.Model.dll
+c:\users\eric\documents\visual studio 2013\Projects\NewTwitterApp\NewTwitterApp.Data.Model\obj\Debug\NewTwitterApp.Data.Model.pdb
